@@ -140,22 +140,6 @@ nav ul li a:hover::after{
       font-size: 0.8rem; /* Further reduce font size for smaller screens */
     }
   }
-.start-btn{
-    display: inline-block;
-    text-decoration: none;
-    color: #fff;
-    border: 3px solid #fff;
-    padding: 12px 34px;
-    font-size: 28px;
-    background: transparent;
-    position: relative;
-    cursor: pointer;
-}
-.start-btn:hover{
-    border: 3px solid #5476ff;
-    background: #5476ff;
-    transition: 1s;
-}
 /*tutorial videos*/
 #building{
     padding-bottom: 10px;
