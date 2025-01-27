@@ -57,11 +57,5 @@ const scriptURL = 'https://script.google.com/macros/s/AKfycbw3yAINb1i5SsPYm25YeN
 
 //graphics card
 
-function scrollToTop() {
-    window.scrollTo({
-      top: 0, 
-      behavior: 'smooth' 
-    });
-  }
 
 
